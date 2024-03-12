@@ -1,1 +1,2 @@
-project Ohota 1
+project Ohota 2
+print(ohota)
