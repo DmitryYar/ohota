@@ -17,3 +17,7 @@ print(ohota)
 <h4>Hello World!</h4>
 <h5>Hello World!</h5>
 <h6>Hello World!</h6>
+<button type="submit">нажми</button>
+<button type="reset">обнови</button>
+<button type="button" autofocus>knopka</button>
+<button type="button" disabled>knopka</button>
